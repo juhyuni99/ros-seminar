@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=ot_D9N-H4lQ&list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw
 # 1. 자료 목록
 - 01_로봇_소프트웨어_플랫폼
 - 02_로봇_운영체제_ROS
